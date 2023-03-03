@@ -1,5 +1,5 @@
-# StepGCN: Step-oriented Graph Convolutional Networks in Representation Learning
-This repository contains the PyTorch implementation code for the paper "StepGCN: Step-oriented Graph Convolutional Networks in Representation Learning"
+# Step-oriented Graph Convolutional Networks in Representation Learning
+This repository contains the PyTorch implementation code for the paper "Step-oriented Graph Convolutional Networks in Representation Learning"
 
 ## Dependencies
 - CUDA 11.0
